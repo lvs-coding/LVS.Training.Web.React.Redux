@@ -1,25 +1,20 @@
-# ReduxSimpleStarter
+# LVS.Training.Web.React.Redux
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
+### What is this project ?
+It's a training project I built while following the Udemy course "Modern React with Redux" teaches by the excelent Stephen Grider : https://github.com/StephenGrider
+
+### How this project is organized ?
+This project contains multiple branches, these branches follows my progression in the course.
+
 ### Getting Started
 
-There are two methods for getting started with this repo.
-
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
-
 ```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
+> git clone https://github.com/lvs-coding/LVS.Training.Web.React.Redux
+> cd SimpleAppRedux
 > npm install
 > npm start
 ```
 
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
 
-```
-> npm install
-> npm start
-```
